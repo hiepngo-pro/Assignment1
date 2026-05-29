@@ -1,0 +1,12 @@
+entity\User.class
+utils\DBConnect.class
+entity\Share.class
+controller\LoginServlet.class
+dao\TestVideoDAO.class
+utils\TestDB.class
+entity\Video.class
+controller\FavoriteServlet.class
+controller\RegisterServlet.class
+controller\HomeServlet.class
+dao\VideoDAO.class
+entity\Favorite.class
